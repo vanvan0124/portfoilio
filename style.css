@@ -51,6 +51,16 @@ p {
 .links {
     background-color: rgb(228, 184, 90);
 }
+.links a {
+    text-decoration: none;
+    color: black
+}
+.links a:hover {
+    color: white ;
+    text-decoration: none;
+    
+}
+
 .fa-icons {
 	font-size: 1.5rem;
     color: rgb(48, 36, 15);
