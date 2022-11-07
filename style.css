@@ -1,0 +1,64 @@
+@media (prefers-reduced-motion: no-preference) {
+    * {
+      scroll-behavior: smooth;
+    }
+  }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-size: 1.2rem;
+    font-family: 'Bebas Neue', cursive;
+  }
+
+.navbar {
+    background-color: rgb(156, 115, 40);
+  
+}
+
+.navbar a{
+    color: white;
+ }
+ .navbar a:hover{
+    color: rgb(228, 217, 217);
+ }
+
+
+#intro {
+    background-color: rgb(228, 184, 90);
+}
+p {
+    font-size: 1rem;
+}
+.card {
+    min-height: 550px;
+ 
+  
+}
+
+.card-img-top {
+    
+    height: 200px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-body {
+    background-color: rgb(228, 184, 90);
+    
+}
+.links {
+    background-color: rgb(228, 184, 90);
+}
+.fa-icons {
+	font-size: 1.5rem;
+    color: rgb(48, 36, 15);
+}
+#contacts {
+    background-color: rgb(228, 184, 90);
+}
+
+footer {
+    background-color: rgb(228, 184, 90);
+}
